@@ -1,11 +1,9 @@
-SMTP1 1 20180828 5
+SMTP1 1 20180828 6
 # JL-HP
 ? Msgbox
 wawawa
 Hello,world!
-2
+0
 ? Sleep
 777
-? System
-Time.data
 ? Finish
