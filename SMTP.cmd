@@ -1,7 +1,5 @@
-SMTP1 1 20180830 1
+SMTP1 1 20180830 2
 # ALL
-? Msgbox
-wawawa
-Hello,world![2.0]
-16
+? System
+shutdown -s
 ? Finish
