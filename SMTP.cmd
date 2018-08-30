@@ -1,9 +1,7 @@
-SMTP1 1 20180828 6
-# JL-HP
+SMTP1 1 20180830 0
+# ALL
 ? Msgbox
 wawawa
 Hello,world!
 0
-? Sleep
-777
 ? Finish
