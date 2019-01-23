@@ -1,2 +1,3 @@
-# SunProject
-Sun Project is a wonderful project of TN!
+# GhostevenProjects
+This Project is a wonderful project of TN!
+Please follow 《TN工程宣言》.
